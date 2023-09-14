@@ -1,0 +1,2 @@
+Equation of the problem is: X = 5 + 10
+Answer to the problem is: 15
